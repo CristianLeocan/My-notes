@@ -1,0 +1,14 @@
+.ql-editor p,
+.ql-editor.ql-blank::before {
+    font-size: 1.3em;
+    font-weight: 100;
+}
+
+.pane-editor {
+    overflow-y: auto;    
+}
+
+.editor {
+    width: 80%;
+    height: 100vh;
+}
